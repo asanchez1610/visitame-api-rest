@@ -57,6 +57,10 @@
 							<directory>${project.build.sourceDirectory}</directory>
 							<targetPath>WEB-INF/classes</targetPath>
 						</resource>
+						<resource>
+							<directory>src/main/webapp/</directory>
+							<targetPath>/</targetPath>
+						</resource>
 					</webResources>
 				</configuration>
 			</plugin>
