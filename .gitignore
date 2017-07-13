@@ -1,6 +1,10 @@
 visitame-dominio/target
 visitame-rest/target
 visitame-reat-ear/target
+visitame-dominio/.settings
+visitame-rest/.settings
+visitame-reat-ear/.settings
 .project
 target/
 /.project
+.settings
